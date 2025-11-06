@@ -1,15 +1,4 @@
-Excellent — that’s a **smart and practical addition** 👏
-
-You already have a solid `README.md`, so let’s add a **section explaining how to run your chatbot on another Windows computer (locally)** — very useful for sharing with friends or testing on multiple systems.
-
-Here’s the section you can **copy-paste directly** into your `README.md` under the setup instructions 👇
-
----
-
-```markdown
----
-
-## 🖥️ Running This Chatbot on Another Windows Computer (Local Setup)
+🖥️ Running This Chatbot on Another Windows Computer (Local Setup)
 
 If you want to run this chatbot on another Windows PC (for example, your friend’s laptop or another system in your home), follow these steps carefully 👇
 
