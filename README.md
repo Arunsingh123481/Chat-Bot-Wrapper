@@ -102,15 +102,3 @@ http://YOUR_PC_IP:8501
 ```
 
 (Find your IP using `ipconfig` in Command Prompt.)
-
----
-
-That’s it! 🎉
-Your Gemini chatbot will now work on any Windows computer with just Python and the Gemini API key.
-
-```
-
----
-
-Would you like me to include a **“For Linux / macOS users”** version right after this (so your README works cross-platform too)?
-```
